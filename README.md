@@ -11,7 +11,7 @@ I am knowledgeable in C# and Java languages. I am working on various projects an
 The projects are carried out not for a specific institution or organization, but for the stated purpose of my own development. By sharing my projects, I hope that the information obtained in this process will be useful.
 ##
 
-## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/NpSJaqqhJx) • [Instagram](https://www.instagram.com/cannztrk_)
+## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/5s7zFDx8mC) • [Instagram](https://www.instagram.com/cannztrk_)
 
 ## Object Oriented Programming (OOP) - Nesneye Yönelik Programlama (NYP):
 ### Coding Languages - Kodlama Dilleri:
@@ -21,8 +21,7 @@ The projects are carried out not for a specific institution or organization, but
 
 • Firebase
 
-## Search Engine Optimization (SEO):
-### Social Media SEO Expert :
+## Search Engine Optimization (SEO) - Arama Motoru Optimizasyonu
 • YouTube
 
 ### YouTube SEO:
@@ -33,11 +32,11 @@ The projects are carried out not for a specific institution or organization, but
 • Advert - Reklam
 
 ## Experience:
-• 3 Years YouTube Content Creator (2018 - 2021)
+• 3 Years YouTube Content Creator (2018 - 2021) – 3 Yıl YouTube İçerik Oluşturucusu (2018 – 2021)
 
-• 3.5 Years C# Developer
+• 3.5 Years C# Developer - 3,5 Yıllık C# Geliştiricisi
 
-• 1 Years Java Developer
+• 1 Years Java Developer - 1 Yıllık Java Geliştiricisi
 
 
 
