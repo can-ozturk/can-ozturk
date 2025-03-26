@@ -11,7 +11,7 @@ I am knowledgeable in C# and Java languages. I am working on various projects an
 The projects are carried out not for a specific institution or organization, but for the stated purpose of my own development. By sharing my projects, I hope that the information obtained in this process will be useful.
 ##
 
-## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/5s7zFDx8mC) • [Instagram](https://www.instagram.com/cannztrk_)
+## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/5s7zFDx8mC) • [Instagram](https://www.instagram.com/cannztrk_) • [Web](https://ozturkk.com/)
 
 ## Object Oriented Programming (OOP) - Nesneye Yönelik Programlama (NYP):
 ### Coding Languages - Kodlama Dilleri:
