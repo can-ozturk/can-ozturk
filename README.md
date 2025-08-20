@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me / Hakkımda
+## 🚀 About Me / Hakkımda 
 ### TR
 -  2021 Mayıs’tan beri **C#** geliştiricisiyim  
 -  1 yıllık **Java** tecrübem var  
@@ -67,4 +67,5 @@
 ## 📈 GitHub Stats / GitHub İstatistikleri
 ![Can's GitHub Stats / Can'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=can-ozturk&show_icons=true&theme=tokyonight)  
 ![Top Languages / Bütün Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=can-ozturk&layout=compact&theme=tokyonight)
+
 
